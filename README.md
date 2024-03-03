@@ -8,6 +8,8 @@ My _tentative WIP_ roadmap to cover fundamental topics of mathematics for data s
 
 📆 START: 01.26.2024 | END: _pending_
 
+#
+
 
 
 | Course | Status | Certificate | 
@@ -22,3 +24,11 @@ My _tentative WIP_ roadmap to cover fundamental topics of mathematics for data s
 | [Calculus 1A: Differentiation](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.01.1x/) (1 of 3)
 | [Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) (2 of 3)
 | [Calculus 1C: Coordinate Systems & Infinite Series](https://mitxonline.mit.edu/courses/course-v1:MITxT+18.01.3x/) (3 of 3)
+
+#
+
+### Additional Resources
+* [Algebra Worksheets](https://math-drills.com/algebra.php) - practice worksheets (with solutions)
+* [Paul's Online Notes](https://tutorial.math.lamar.edu/) - online notes, practice problems (with solutions)
+* [Klotz Online Math Notes](https://math.hunter.cuny.edu/klotzmathnotes/) - online notes (upper level courses), practice problems (no solutions)
+* [Print Free Graph Paper](https://www.printfreegraphpaper.com/)
