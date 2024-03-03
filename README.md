@@ -17,7 +17,7 @@ My _tentative WIP_ roadmap to cover fundamental topics of mathematics for data s
 | [Algebra 1](https://www.khanacademy.org/math/algebra) | ✅ | N/A |
 | [Algebra: Elementary to Advanced](https://www.coursera.org/specializations/algebra-elementary-to-advanced) | ✅ | [CERTIFICATE](https://coursera.org/share/0f0899c13358c67122cf98c9abd337f2) |
 | [Become a Trigonometry & Precalculus Master](https://uci.udemy.com/course/trig-by-krista-king/) | ▶️ | _in progress_
-| [Precalculus through Data and Modelling Specialization](https://www.coursera.org/specializations/precalculus-data-modelling) | 
+| [Precalculus through Data and Modelling Specialization](https://www.coursera.org/specializations/precalculus-data-modelling) |  ▶️ | _in progress_
 | [Differential Calculus through Data and Modeling Specialization](https://www.coursera.org/specializations/differential-calculus-data-modeling) |
 | [Linear Algebra from Elementary to Advanced Specialization](https://www.coursera.org/specializations/linear-algebra-elementary-to-advanced) |
 | [Single Variable Calculus](https://ocw.mit.edu/courses/18-01sc-single-variable-calculus-fall-2010/)  (broken down in 3 parts below)
