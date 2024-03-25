@@ -17,7 +17,7 @@ My _WIP_ roadmap to self-study mathematics for Data Science: Algebra, Precalculu
 | [Become a Trigonometry & Precalculus Master](https://uci.udemy.com/course/trig-by-krista-king/) | ▶️ | _in progress_
 | [Precalculus through Data and Modelling Specialization](https://www.coursera.org/specializations/precalculus-data-modelling) (3 course series) | ▶️ | _in progress_
 | [Precalculus: Relations and Functions](https://www.coursera.org/learn/precalculus-relations-functions?specialization=precalculus-data-modelling) | ✅ | [CERTIFICATE](https://coursera.org/share/b4879d697f7f50afac373489dd892f4e) |
-| [Precalculus: Periodic Functions](https://www.coursera.org/learn/precalculus-periodic-functions?specialization=precalculus-data-modelling) | ▶️ | _in progress_
+| [Precalculus: Periodic Functions](https://www.coursera.org/learn/precalculus-periodic-functions?specialization=precalculus-data-modelling) | ✅ | [CERTIFICATE](https://coursera.org/share/b4879d697f7f50afac373489dd892f4e) |
 | [Precalculus: Mathematical Modeling](https://www.coursera.org/learn/precalculus-mathematical-modelling?specialization=precalculus-data-modelling) |
 | --- |
 | [Differential Calculus through Data and Modeling Specialization](https://www.coursera.org/specializations/differential-calculus-data-modeling) |
